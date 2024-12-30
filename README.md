@@ -11,3 +11,4 @@ There are 9 chapters in this book with exercises for chapters 2-9:
 5. Functional Python
 6. Iterators, comprehensions & generators
 7. Exception handling
+8. 
